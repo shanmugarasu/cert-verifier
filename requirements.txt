@@ -18,3 +18,10 @@ tox>=2.7.0
 Werkzeug>=0.12.2
 WTForms>=2.1
 gunicorn>=19.7.1
+chainpoint==0.0.2
+enum34>=1.1.6;
+functional>=0.4
+pyld>=0.8.1
+python-dateutil>=2.6.1
+pytz>=2017.2
+requests[security]>=2.18.4
