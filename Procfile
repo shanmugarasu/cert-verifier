@@ -1,1 +1,1 @@
-web: python cert-verifier\verifier.py
+web: python cert-verifier\\verifier.py
