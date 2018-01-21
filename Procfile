@@ -1,1 +1,1 @@
-web: python .\\cert_verifier\\verifier.py
+web: gunicorn cert_verifier.verifier
