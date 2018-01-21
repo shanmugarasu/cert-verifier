@@ -1,1 +1,1 @@
-web: python run.py
+web: python cert_verifier\\verifier.py
